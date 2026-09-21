@@ -106,8 +106,13 @@ Exploration and visualization of geographical data to uncover location-based pat
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JayeshSharma31&show_icons=true&hide_border=true&theme=github_dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshSharma31&layout=compact&hide_border=true&theme=github_dark" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=JayeshSharma31&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+       alt="Jayesh Sharma's GitHub Stats" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshSharma31&layout=compact&theme=github_dark&hide_border=true"
+       alt="Jayesh Sharma's Most Used Languages" />
 </p>
 
 ## 🤝 Let's Connect
